@@ -8,4 +8,9 @@ This repository consists of various files that provide the full process of desig
   * Denver Zoo DM Star Schema
     
 * SQL script to build a data warehouse and database
-  * 
+  * SQLQuery for Denver Zoo DM
+  * DimCustomer
+  * DimDate
+  * DimEmployee
+  * DimTicketType
+  * FactTicketSale
