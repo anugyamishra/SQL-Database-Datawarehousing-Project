@@ -7,5 +7,5 @@ This repository consists of various files that provide the full process of desig
   * Information Package
   * Denver Zoo DM Star Schema
     
-* SQL script to create data mart
+* SQL script to build a data warehouse and database
   * 
