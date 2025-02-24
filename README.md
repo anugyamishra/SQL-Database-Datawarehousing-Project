@@ -14,3 +14,5 @@ This repository consists of various files that provide the full process of desig
   * DimEmployee
   * DimTicketType
   * FactTicketSale
+* Denver Zoo ETL (Extract, Transform and Load) process in SSIS
+ * DenverZoo DM Solution
